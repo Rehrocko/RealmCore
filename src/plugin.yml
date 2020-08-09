@@ -1,0 +1,6 @@
+name: RealmCore
+author: piggy
+version: 1.0-SNAPSHOT
+main: me.piggy.realmcore.RealmCore
+commands:
+  test: {}

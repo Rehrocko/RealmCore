@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RealmCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RealmCore_jar</output-path>
+    <root id="archive" name="RealmCore.jar">
+      <element id="module-output" name="RealmCore" />
+    </root>
+  </artifact>
+</component>
